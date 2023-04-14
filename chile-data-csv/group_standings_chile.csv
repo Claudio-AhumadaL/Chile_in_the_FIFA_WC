@@ -1,4 +1,4 @@
-key_id,tournament_id,tournament_name,stage_number,stage_name,group_name,position,team_id,team_name,team_code,played,wins,draws,losses,goals_for,goals_against,goal_difference,points,advanced
+keyid,tournamentid,tournamentname,stagenumber,stagename,groupname,position,teamid,teamname,teamcode,played,wins,draws,losses,goalsfor,goalsagainst,goaldifference,points,advanced
 2,WC-1930,1930 FIFA World Cup,1,group stage,Group 1,2,T-13,Chile,CHL,3,2,0,1,5,3,2,4,0
 20,WC-1950,1950 FIFA World Cup,1,first round,Group 2,3,T-13,Chile,CHL,3,1,0,2,5,6,-1,2,0
 68,WC-1962,1962 FIFA World Cup,1,group stage,Group 2,2,T-13,Chile,CHL,3,2,0,1,5,3,2,4,1
