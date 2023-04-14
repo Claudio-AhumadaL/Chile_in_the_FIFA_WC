@@ -1,0 +1,34 @@
+key_id,tournament_id,tournament_name,match_id,match_name,match_date,stage_name,group_name,team_id,team_name,team_code,home_team,away_team,manager_id,family_name,given_name,country_name
+12,WC-1930,1930 FIFA World Cup,M-1930-06,Chile v Mexico,1930-07-16,group stage,Group 1,T-13,Chile,CHL,1,0,M-240,Orth,György,Hungary
+20,WC-1930,1930 FIFA World Cup,M-1930-10,Chile v France,1930-07-19,group stage,Group 1,T-13,Chile,CHL,1,0,M-240,Orth,György,Hungary
+33,WC-1930,1930 FIFA World Cup,M-1930-15,Argentina v Chile,1930-07-22,group stage,Group 1,T-13,Chile,CHL,0,1,M-240,Orth,György,Hungary
+124,WC-1950,1950 FIFA World Cup,M-1950-03,England v Chile,1950-06-25,group stage,Group 2,T-13,Chile,CHL,0,1,M-048,Buccicardi,Alberto,Chile
+134,WC-1950,1950 FIFA World Cup,M-1950-08,Spain v Chile,1950-06-29,group stage,Group 2,T-13,Chile,CHL,0,1,M-048,Buccicardi,Alberto,Chile
+141,WC-1950,1950 FIFA World Cup,M-1950-12,Chile v United States,1950-07-02,group stage,Group 2,T-13,Chile,CHL,1,0,M-048,Buccicardi,Alberto,Chile
+290,WC-1962,1962 FIFA World Cup,M-1962-02,Chile v Switzerland,1962-05-30,group stage,Group 2,T-13,Chile,CHL,1,0,M-284,Riera,Fernando,Chile
+309,WC-1962,1962 FIFA World Cup,M-1962-10,Chile v Italy,1962-06-02,group stage,Group 2,T-13,Chile,CHL,1,0,M-284,Riera,Fernando,Chile
+327,WC-1962,1962 FIFA World Cup,M-1962-18,West Germany v Chile,1962-06-06,group stage,Group 2,T-13,Chile,CHL,0,1,M-284,Riera,Fernando,Chile
+344,WC-1962,1962 FIFA World Cup,M-1962-26,Chile v Soviet Union,1962-06-10,quarter-finals,not applicable,T-13,Chile,CHL,1,0,M-284,Riera,Fernando,Chile
+352,WC-1962,1962 FIFA World Cup,M-1962-29,Brazil v Chile,1962-06-13,semi-finals,not applicable,T-13,Chile,CHL,0,1,M-284,Riera,Fernando,Chile
+356,WC-1962,1962 FIFA World Cup,M-1962-31,Chile v Yugoslavia,1962-06-16,third-place match,not applicable,T-13,Chile,CHL,1,0,M-284,Riera,Fernando,Chile
+376,WC-1966,1966 FIFA World Cup,M-1966-08,Italy v Chile,1966-07-13,group stage,Group 4,T-13,Chile,CHL,0,1,M-009,Álamos,Luis,Chile
+383,WC-1966,1966 FIFA World Cup,M-1966-12,Chile v North Korea,1966-07-15,group stage,Group 4,T-13,Chile,CHL,1,0,M-009,Álamos,Luis,Chile
+408,WC-1966,1966 FIFA World Cup,M-1966-24,Soviet Union v Chile,1966-07-20,group stage,Group 4,T-13,Chile,CHL,0,1,M-009,Álamos,Luis,Chile
+492,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-13,Chile,CHL,0,1,M-009,Álamos,Luis,Chile
+507,WC-1974,1974 FIFA World Cup,M-1974-10,Chile v East Germany,1974-06-18,group stage,Group 1,T-13,Chile,CHL,1,0,M-009,Álamos,Luis,Chile
+522,WC-1974,1974 FIFA World Cup,M-1974-17,Australia v Chile,1974-06-22,group stage,Group 1,T-13,Chile,CHL,0,1,M-009,Álamos,Luis,Chile
+660,WC-1982,1982 FIFA World Cup,M-1982-10,Chile v Austria,1982-06-17,group stage,Group 2,T-13,Chile,CHL,1,0,M-302,Santibáñez,Luis,Chile
+680,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-13,Chile,CHL,0,1,M-302,Santibáñez,Luis,Chile
+707,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-13,Chile,CHL,0,1,M-302,Santibáñez,Luis,Chile
+1070,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,M-001,Acosta,Nelson,Uruguay
+1103,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,M-001,Acosta,Nelson,Uruguay
+1133,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,M-001,Acosta,Nelson,Uruguay
+1170,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-13,Chile,CHL,0,1,M-001,Acosta,Nelson,Uruguay
+1488,WC-2010,2010 FIFA World Cup,M-2010-15,Honduras v Chile,2010-06-16,group stage,Group H,T-13,Chile,CHL,0,1,M-034,Bielsa,Marcelo,Argentina
+1519,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,M-034,Bielsa,Marcelo,Argentina
+1551,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,M-034,Bielsa,Marcelo,Argentina
+1566,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,M-034,Bielsa,Marcelo,Argentina
+1593,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,M-297,Sampaoli,Jorge,Argentina
+1624,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,M-297,Sampaoli,Jorge,Argentina
+1654,WC-2014,2014 FIFA World Cup,M-2014-34,Netherlands v Chile,2014-06-23,group stage,Group B,T-13,Chile,CHL,0,1,M-297,Sampaoli,Jorge,Argentina
+1684,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,M-297,Sampaoli,Jorge,Argentina

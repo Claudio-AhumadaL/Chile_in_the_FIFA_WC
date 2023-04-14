@@ -1,0 +1,50 @@
+key_id,goal_id,tournament_id,tournament_name,match_id,match_name,match_date,stage_name,group_name,team_id,team_name,team_code,home_team,away_team,player_id,family_name,given_name,shirt_number,player_team_id,player_team_name,player_team_code,minute_label,minute_regulation,minute_stoppage,match_period,own_goal,penalty
+47,G-0047,WC-1930,1930 FIFA World Cup,M-1930-15,Argentina v Chile,1930-07-22,group stage,Group 1,T-03,Argentina,ARG,1,0,P-01708,Stábile,Guillermo,0,T-03,Argentina,ARG,12',12,0,first half,0,0
+48,G-0048,WC-1930,1930 FIFA World Cup,M-1930-15,Argentina v Chile,1930-07-22,group stage,Group 1,T-03,Argentina,ARG,1,0,P-01708,Stábile,Guillermo,0,T-03,Argentina,ARG,13',13,0,first half,0,0
+50,G-0050,WC-1930,1930 FIFA World Cup,M-1930-15,Argentina v Chile,1930-07-22,group stage,Group 1,T-03,Argentina,ARG,1,0,P-03577,Evaristo,Mario,0,T-03,Argentina,ARG,51',51,0,second half,0,0
+232,G-0232,WC-1950,1950 FIFA World Cup,M-1950-03,England v Chile,1950-06-25,group stage,Group 2,T-27,England,ENG,1,0,P-04701,Mortensen,Stan,0,T-27,England,ENG,39',39,0,first half,0,0
+233,G-0233,WC-1950,1950 FIFA World Cup,M-1950-03,England v Chile,1950-06-25,group stage,Group 2,T-27,England,ENG,1,0,P-03959,Mannion,Wilf,0,T-27,England,ENG,51',51,0,second half,0,0
+252,G-0252,WC-1950,1950 FIFA World Cup,M-1950-08,Spain v Chile,1950-06-29,group stage,Group 2,T-71,Spain,ESP,1,0,P-05910,Basora,Estanislau,0,T-71,Spain,ESP,17',17,0,first half,0,0
+253,G-0253,WC-1950,1950 FIFA World Cup,M-1950-08,Spain v Chile,1950-06-29,group stage,Group 2,T-71,Spain,ESP,1,0,P-02813,Zarra,Telmo,0,T-71,Spain,ESP,30',30,0,first half,0,0
+263,G-0263,WC-1950,1950 FIFA World Cup,M-1950-12,Chile v United States,1950-07-02,group stage,Group 2,T-80,United States,USA,0,1,P-02433,Wallace,Frank,0,T-80,United States,USA,47',47,0,second half,0,0
+264,G-0264,WC-1950,1950 FIFA World Cup,M-1950-12,Chile v United States,1950-07-02,group stage,Group 2,T-80,United States,USA,0,1,P-03061,Maca,Joe,0,T-80,United States,USA,48',48,0,second half,0,1
+582,G-0582,WC-1962,1962 FIFA World Cup,M-1962-02,Chile v Switzerland,1962-05-30,group stage,Group 2,T-73,Switzerland,CHE,0,1,P-02325,Wüthrich,Rolf,0,T-73,Switzerland,CHE,6',6,0,first half,0,0
+627,G-0627,WC-1962,1962 FIFA World Cup,M-1962-18,West Germany v Chile,1962-06-06,group stage,Group 2,T-83,West Germany,DEU,1,0,P-03744,Szymaniak,Horst,0,T-83,West Germany,DEU,21',21,0,first half,0,1
+628,G-0628,WC-1962,1962 FIFA World Cup,M-1962-18,West Germany v Chile,1962-06-06,group stage,Group 2,T-83,West Germany,DEU,1,0,P-02871,Seeler,Uwe,0,T-83,West Germany,DEU,82',82,0,second half,0,0
+649,G-0649,WC-1962,1962 FIFA World Cup,M-1962-26,Chile v Soviet Union,1962-06-10,quarter-finals,not applicable,T-70,Soviet Union,SUN,0,1,P-03676,Chislenko,Igor,0,T-70,Soviet Union,SUN,26',26,0,first half,0,0
+653,G-0653,WC-1962,1962 FIFA World Cup,M-1962-29,Brazil v Chile,1962-06-13,semi-finals,not applicable,T-09,Brazil,BRA,1,0,P-07818,Garrincha,not applicable,0,T-09,Brazil,BRA,9',9,0,first half,0,0
+654,G-0654,WC-1962,1962 FIFA World Cup,M-1962-29,Brazil v Chile,1962-06-13,semi-finals,not applicable,T-09,Brazil,BRA,1,0,P-07818,Garrincha,not applicable,0,T-09,Brazil,BRA,32',32,0,first half,0,0
+656,G-0656,WC-1962,1962 FIFA World Cup,M-1962-29,Brazil v Chile,1962-06-13,semi-finals,not applicable,T-09,Brazil,BRA,1,0,P-01848,Vavá,not applicable,0,T-09,Brazil,BRA,47',47,0,second half,0,0
+658,G-0658,WC-1962,1962 FIFA World Cup,M-1962-29,Brazil v Chile,1962-06-13,semi-finals,not applicable,T-09,Brazil,BRA,1,0,P-01848,Vavá,not applicable,0,T-09,Brazil,BRA,78',78,0,second half,0,0
+687,G-0687,WC-1966,1966 FIFA World Cup,M-1966-08,Italy v Chile,1966-07-13,group stage,Group 4,T-39,Italy,ITA,1,0,P-04239,Mazzola,Sandro,0,T-39,Italy,ITA,8',8,0,first half,0,0
+688,G-0688,WC-1966,1966 FIFA World Cup,M-1966-08,Italy v Chile,1966-07-13,group stage,Group 4,T-39,Italy,ITA,1,0,P-03723,Barison,Paolo,0,T-39,Italy,ITA,88',88,0,second half,0,0
+700,G-0700,WC-1966,1966 FIFA World Cup,M-1966-12,Chile v North Korea,1966-07-15,group stage,Group 4,T-49,North Korea,PRK,0,1,P-05689,Pak,Seung-zin,0,T-49,North Korea,PRK,88',88,0,second half,0,0
+723,G-0723,WC-1966,1966 FIFA World Cup,M-1966-24,Soviet Union v Chile,1966-07-20,group stage,Group 4,T-70,Soviet Union,SUN,1,0,P-03318,Porkujan,Valeriy,0,T-70,Soviet Union,SUN,28',28,0,first half,0,0
+725,G-0725,WC-1966,1966 FIFA World Cup,M-1966-24,Soviet Union v Chile,1966-07-20,group stage,Group 4,T-70,Soviet Union,SUN,1,0,P-03318,Porkujan,Valeriy,0,T-70,Soviet Union,SUN,85',85,0,second half,0,0
+852,G-0852,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-83,West Germany,DEU,1,0,P-02579,Breitner,Paul,3,T-83,West Germany,DEU,18',18,0,first half,0,0
+871,G-0871,WC-1974,1974 FIFA World Cup,M-1974-10,Chile v East Germany,1974-06-18,group stage,Group 1,T-23,East Germany,DDR,0,1,P-06521,Hoffmann,Martin,20,T-23,East Germany,DDR,55',55,0,second half,0,0
+1082,G-1082,WC-1982,1982 FIFA World Cup,M-1982-10,Chile v Austria,1982-06-17,group stage,Group 2,T-05,Austria,AUT,0,1,P-04693,Schachner,Walter,7,T-05,Austria,AUT,22',22,0,first half,0,0
+1101,G-1101,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-83,West Germany,DEU,1,0,P-05861,Rummenigge,Karl-Heinz,11,T-83,West Germany,DEU,9',9,0,first half,0,0
+1102,G-1102,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-83,West Germany,DEU,1,0,P-05861,Rummenigge,Karl-Heinz,11,T-83,West Germany,DEU,57',57,0,second half,0,0
+1103,G-1103,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-83,West Germany,DEU,1,0,P-05861,Rummenigge,Karl-Heinz,11,T-83,West Germany,DEU,66',66,0,second half,0,0
+1104,G-1104,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-83,West Germany,DEU,1,0,P-02532,Reinders,Uwe,13,T-83,West Germany,DEU,81',81,0,second half,0,0
+1140,G-1140,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-01,Algeria,DZA,1,0,P-04930,Assad,Salah,7,T-01,Algeria,DZA,7',7,0,first half,0,0
+1141,G-1141,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-01,Algeria,DZA,1,0,P-04930,Assad,Salah,7,T-01,Algeria,DZA,31',31,0,first half,0,0
+1142,G-1142,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-01,Algeria,DZA,1,0,P-05752,Bensaoula,Tedj,9,T-01,Algeria,DZA,35',35,0,first half,0,0
+1592,G-1592,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-39,Italy,ITA,1,0,P-07756,Vieri,Christian,21,T-39,Italy,ITA,10',10,0,first half,0,0
+1595,G-1595,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-39,Italy,ITA,1,0,P-09710,Baggio,Roberto,18,T-39,Italy,ITA,84',84,0,second half,0,1
+1628,G-1628,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-05,Austria,AUT,0,1,P-02973,Vastić,Ivica,9,T-05,Austria,AUT,90'+2',90,2,"second half, stoppage time",0,0
+1666,G-1666,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-11,Cameroon,CMR,0,1,P-01810,M'Boma,Patrick,10,T-11,Cameroon,CMR,56',56,0,second half,0,0
+1712,G-1712,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-09,Brazil,BRA,1,0,P-09892,Sampaio,César,5,T-09,Brazil,BRA,11',11,0,first half,0,0
+1713,G-1713,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-09,Brazil,BRA,1,0,P-09892,Sampaio,César,5,T-09,Brazil,BRA,26',26,0,first half,0,0
+1714,G-1714,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-09,Brazil,BRA,1,0,P-08490,Ronaldo,not applicable,9,T-09,Brazil,BRA,45'+3',45,3,"first half, stoppage time",0,1
+1716,G-1716,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-09,Brazil,BRA,1,0,P-08490,Ronaldo,not applicable,9,T-09,Brazil,BRA,72',72,0,second half,0,0
+2162,G-2162,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-71,Spain,ESP,0,1,P-03504,Villa,David,7,T-71,Spain,ESP,24',24,0,first half,0,0
+2163,G-2163,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-71,Spain,ESP,0,1,P-02250,Iniesta,Andrés,6,T-71,Spain,ESP,37',37,0,first half,0,0
+2183,G-2183,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-09,Brazil,BRA,1,0,P-09822,Juan,not applicable,4,T-09,Brazil,BRA,35',35,0,first half,0,0
+2184,G-2184,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-09,Brazil,BRA,1,0,P-07106,Fabiano,Luís,9,T-09,Brazil,BRA,38',38,0,first half,0,0
+2185,G-2185,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-09,Brazil,BRA,1,0,P-02023,Robinho,not applicable,11,T-09,Brazil,BRA,59',59,0,second half,0,0
+2222,G-2222,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-04,Australia,AUS,0,1,P-06889,Cahill,Tim,4,T-04,Australia,AUS,35',35,0,first half,0,0
+2306,G-2306,WC-2014,2014 FIFA World Cup,M-2014-34,Netherlands v Chile,2014-06-23,group stage,Group B,T-46,Netherlands,NLD,1,0,P-06473,Fer,Leroy,18,T-46,Netherlands,NLD,77',77,0,second half,0,0
+2307,G-2307,WC-2014,2014 FIFA World Cup,M-2014-34,Netherlands v Chile,2014-06-23,group stage,Group B,T-46,Netherlands,NLD,1,0,P-05448,Depay,Memphis,21,T-46,Netherlands,NLD,90'+2',90,2,"second half, stoppage time",0,0
+2345,G-2345,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-09,Brazil,BRA,1,0,P-04256,Luiz,David,4,T-09,Brazil,BRA,18',18,0,first half,0,0

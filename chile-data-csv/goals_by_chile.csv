@@ -1,0 +1,41 @@
+key_id,goal_id,tournament_id,tournament_name,match_id,match_name,match_date,stage_name,group_name,team_id,team_name,team_code,home_team,away_team,player_id,family_name,given_name,shirt_number,player_team_id,player_team_name,player_team_code,minute_label,minute_regulation,minute_stoppage,match_period,own_goal,penalty
+17,G-0017,WC-1930,1930 FIFA World Cup,M-1930-06,Chile v Mexico,1930-07-16,group stage,Group 1,T-13,Chile,CHL,1,0,P-09271,Vidal,Carlos,0,T-13,Chile,CHL,3',3,0,first half,0,0
+18,G-0018,WC-1930,1930 FIFA World Cup,M-1930-06,Chile v Mexico,1930-07-16,group stage,Group 1,T-13,Chile,CHL,1,0,P-02991,Rosas,Manuel,0,T-44,Mexico,MEX,52',52,0,second half,1,0
+19,G-0019,WC-1930,1930 FIFA World Cup,M-1930-06,Chile v Mexico,1930-07-16,group stage,Group 1,T-13,Chile,CHL,1,0,P-09271,Vidal,Carlos,0,T-13,Chile,CHL,65',65,0,second half,0,0
+28,G-0028,WC-1930,1930 FIFA World Cup,M-1930-10,Chile v France,1930-07-19,group stage,Group 1,T-13,Chile,CHL,1,0,P-02231,Subiabre,Guillermo,0,T-13,Chile,CHL,67',67,0,second half,0,0
+49,G-0049,WC-1930,1930 FIFA World Cup,M-1930-15,Argentina v Chile,1930-07-22,group stage,Group 1,T-13,Chile,CHL,0,1,P-02231,Subiabre,Guillermo,0,T-13,Chile,CHL,15',15,0,first half,0,0
+261,G-0261,WC-1950,1950 FIFA World Cup,M-1950-12,Chile v United States,1950-07-02,group stage,Group 2,T-13,Chile,CHL,1,0,P-09632,Robledo,George,0,T-13,Chile,CHL,16',16,0,first half,0,0
+262,G-0262,WC-1950,1950 FIFA World Cup,M-1950-12,Chile v United States,1950-07-02,group stage,Group 2,T-13,Chile,CHL,1,0,P-03082,Cremaschi,Atilio,0,T-13,Chile,CHL,32',32,0,first half,0,0
+265,G-0265,WC-1950,1950 FIFA World Cup,M-1950-12,Chile v United States,1950-07-02,group stage,Group 2,T-13,Chile,CHL,1,0,P-07307,Prieto,Andrés,0,T-13,Chile,CHL,54',54,0,second half,0,0
+266,G-0266,WC-1950,1950 FIFA World Cup,M-1950-12,Chile v United States,1950-07-02,group stage,Group 2,T-13,Chile,CHL,1,0,P-03082,Cremaschi,Atilio,0,T-13,Chile,CHL,60',60,0,second half,0,0
+267,G-0267,WC-1950,1950 FIFA World Cup,M-1950-12,Chile v United States,1950-07-02,group stage,Group 2,T-13,Chile,CHL,1,0,P-04368,Riera,Fernando,0,T-13,Chile,CHL,82',82,0,second half,0,0
+583,G-0583,WC-1962,1962 FIFA World Cup,M-1962-02,Chile v Switzerland,1962-05-30,group stage,Group 2,T-13,Chile,CHL,1,0,P-03057,Sánchez,Leonel,0,T-13,Chile,CHL,44',44,0,first half,0,0
+584,G-0584,WC-1962,1962 FIFA World Cup,M-1962-02,Chile v Switzerland,1962-05-30,group stage,Group 2,T-13,Chile,CHL,1,0,P-03180,Ramírez,Jaime,0,T-13,Chile,CHL,51',51,0,second half,0,0
+585,G-0585,WC-1962,1962 FIFA World Cup,M-1962-02,Chile v Switzerland,1962-05-30,group stage,Group 2,T-13,Chile,CHL,1,0,P-03057,Sánchez,Leonel,0,T-13,Chile,CHL,55',55,0,second half,0,0
+599,G-0599,WC-1962,1962 FIFA World Cup,M-1962-10,Chile v Italy,1962-06-02,group stage,Group 2,T-13,Chile,CHL,1,0,P-03180,Ramírez,Jaime,0,T-13,Chile,CHL,73',73,0,second half,0,0
+600,G-0600,WC-1962,1962 FIFA World Cup,M-1962-10,Chile v Italy,1962-06-02,group stage,Group 2,T-13,Chile,CHL,1,0,P-05832,Toro,Jorge,0,T-13,Chile,CHL,87',87,0,second half,0,0
+648,G-0648,WC-1962,1962 FIFA World Cup,M-1962-26,Chile v Soviet Union,1962-06-10,quarter-finals,not applicable,T-13,Chile,CHL,1,0,P-03057,Sánchez,Leonel,0,T-13,Chile,CHL,11',11,0,first half,0,0
+650,G-0650,WC-1962,1962 FIFA World Cup,M-1962-26,Chile v Soviet Union,1962-06-10,quarter-finals,not applicable,T-13,Chile,CHL,1,0,P-09114,Rojas,Eladio,0,T-13,Chile,CHL,29',29,0,first half,0,0
+655,G-0655,WC-1962,1962 FIFA World Cup,M-1962-29,Brazil v Chile,1962-06-13,semi-finals,not applicable,T-13,Chile,CHL,0,1,P-05832,Toro,Jorge,0,T-13,Chile,CHL,42',42,0,first half,0,0
+657,G-0657,WC-1962,1962 FIFA World Cup,M-1962-29,Brazil v Chile,1962-06-13,semi-finals,not applicable,T-13,Chile,CHL,0,1,P-03057,Sánchez,Leonel,0,T-13,Chile,CHL,61',61,0,second half,0,1
+663,G-0663,WC-1962,1962 FIFA World Cup,M-1962-31,Chile v Yugoslavia,1962-06-16,third-place match,not applicable,T-13,Chile,CHL,1,0,P-09114,Rojas,Eladio,0,T-13,Chile,CHL,90',90,0,second half,0,0
+699,G-0699,WC-1966,1966 FIFA World Cup,M-1966-12,Chile v North Korea,1966-07-15,group stage,Group 4,T-13,Chile,CHL,1,0,P-05252,Marcos,Rubén,0,T-13,Chile,CHL,26',26,0,first half,0,1
+724,G-0724,WC-1966,1966 FIFA World Cup,M-1966-24,Soviet Union v Chile,1966-07-20,group stage,Group 4,T-13,Chile,CHL,0,1,P-05252,Marcos,Rubén,0,T-13,Chile,CHL,32',32,0,first half,0,0
+872,G-0872,WC-1974,1974 FIFA World Cup,M-1974-10,Chile v East Germany,1974-06-18,group stage,Group 1,T-13,Chile,CHL,1,0,P-04762,Ahumada,Sergio,9,T-13,Chile,CHL,69',69,0,second half,0,0
+1105,G-1105,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-13,Chile,CHL,0,1,P-05871,Moscoso,Gustavo,11,T-13,Chile,CHL,90',90,0,second half,0,0
+1143,G-1143,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-13,Chile,CHL,0,1,P-05796,Neira,Miguel Ángel,20,T-13,Chile,CHL,59',59,0,second half,0,1
+1144,G-1144,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-13,Chile,CHL,0,1,P-01788,Letelier,Juan Carlos,9,T-13,Chile,CHL,73',73,0,second half,0,0
+1593,G-1593,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-04737,Salas,Marcelo,11,T-13,Chile,CHL,45'+3',45,3,"first half, stoppage time",0,0
+1594,G-1594,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-04737,Salas,Marcelo,11,T-13,Chile,CHL,50',50,0,second half,0,0
+1627,G-1627,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,P-04737,Salas,Marcelo,11,T-13,Chile,CHL,70',70,0,second half,0,0
+1665,G-1665,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-09013,Sierra,José Luis,10,T-13,Chile,CHL,20',20,0,first half,0,0
+1715,G-1715,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-13,Chile,CHL,0,1,P-04737,Salas,Marcelo,11,T-13,Chile,CHL,70',70,0,second half,0,0
+2087,G-2087,WC-2010,2010 FIFA World Cup,M-2010-15,Honduras v Chile,2010-06-16,group stage,Group H,T-13,Chile,CHL,0,1,P-06181,Beausejour,Jean,15,T-13,Chile,CHL,34',34,0,first half,0,0
+2128,G-2128,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-05628,González,Mark,11,T-13,Chile,CHL,75',75,0,second half,0,0
+2164,G-2164,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-03758,Millar,Rodrigo,20,T-13,Chile,CHL,47',47,0,second half,0,0
+2220,G-2220,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,P-08837,Sánchez,Alexis,7,T-13,Chile,CHL,12',12,0,first half,0,0
+2221,G-2221,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,P-07689,Valdivia,Jorge,10,T-13,Chile,CHL,14',14,0,first half,0,0
+2223,G-2223,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,P-06181,Beausejour,Jean,15,T-13,Chile,CHL,90'+2',90,2,"second half, stoppage time",0,0
+2263,G-2263,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,P-09883,Vargas,Eduardo,11,T-13,Chile,CHL,20',20,0,first half,0,0
+2264,G-2264,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,P-03431,Aránguiz,Charles,20,T-13,Chile,CHL,43',43,0,first half,0,0
+2346,G-2346,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-08837,Sánchez,Alexis,7,T-13,Chile,CHL,32',32,0,first half,0,0

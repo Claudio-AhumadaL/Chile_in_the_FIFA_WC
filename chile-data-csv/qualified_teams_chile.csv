@@ -1,0 +1,10 @@
+key_id,tournament_id,tournament_name,team_id,team_name,team_code,count_matches,performance
+5,WC-1930,1930 FIFA World Cup,T-13,Chile,CHL,3,group stage
+47,WC-1950,1950 FIFA World Cup,T-13,Chile,CHL,3,group stage
+93,WC-1962,1962 FIFA World Cup,T-13,Chile,CHL,6,third-place match
+109,WC-1966,1966 FIFA World Cup,T-13,Chile,CHL,3,group stage
+142,WC-1974,1974 FIFA World Cup,T-13,Chile,CHL,3,group stage
+176,WC-1982,1982 FIFA World Cup,T-13,Chile,CHL,3,group stage
+272,WC-1998,1998 FIFA World Cup,T-13,Chile,CHL,4,round of 16
+367,WC-2010,2010 FIFA World Cup,T-13,Chile,CHL,4,round of 16
+401,WC-2014,2014 FIFA World Cup,T-13,Chile,CHL,4,round of 16

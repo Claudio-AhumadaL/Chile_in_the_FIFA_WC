@@ -1,0 +1,46 @@
+key_id,booking_id,tournament_id,tournament_name,match_id,match_name,match_date,stage_name,group_name,team_id,team_name,team_code,home_team,away_team,player_id,family_name,given_name,shirt_number,minute_label,minute_regulation,minute_stoppage,match_period,yellow_card,red_card,second_yellow_card,sending_off
+55,B-0055,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-13,Chile,CHL,0,1,P-07348,Caszely,Carlos,7,13',13,0,first half,1,0,0,0
+56,B-0056,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-13,Chile,CHL,0,1,P-05748,Reinoso,Carlos,10,47',47,0,second half,1,0,0,0
+57,B-0057,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-13,Chile,CHL,0,1,P-01623,García,Rolando,2,59',59,0,second half,1,0,0,0
+58,B-0058,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-13,Chile,CHL,0,1,P-07348,Caszely,Carlos,7,67',67,0,second half,0,1,0,1
+71,B-0071,WC-1974,1974 FIFA World Cup,M-1974-10,Chile v East Germany,1974-06-18,group stage,Group 1,T-13,Chile,CHL,1,0,P-07588,Véliz,Leonardo,11,56',56,0,second half,1,0,0,0
+72,B-0072,WC-1974,1974 FIFA World Cup,M-1974-10,Chile v East Germany,1974-06-18,group stage,Group 1,T-13,Chile,CHL,1,0,P-08063,Páez,Guillermo,16,60',60,0,second half,1,0,0,0
+206,B-0206,WC-1982,1982 FIFA World Cup,M-1982-10,Chile v Austria,1982-06-17,group stage,Group 2,T-13,Chile,CHL,1,0,P-06291,Garrido,Lizardo,2,29',29,0,first half,1,0,0,0
+216,B-0216,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-13,Chile,CHL,0,1,P-02377,Dubó,Rodolfo,6,11',11,0,first half,1,0,0,0
+217,B-0217,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-13,Chile,CHL,0,1,P-09048,Gamboa,Miguel Ángel,21,29',29,0,first half,1,0,0,0
+238,B-0238,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-13,Chile,CHL,0,1,P-01788,Letelier,Juan Carlos,9,88',88,0,second half,1,0,0,0
+876,B-0876,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-08943,Parraguez,Nelson,7,45',45,0,first half,1,0,0,0
+877,B-0877,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-01161,Acuña,Clarence,8,53',53,0,second half,1,0,0,0
+878,B-0878,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-06594,Rojas,Francisco,4,66',66,0,second half,1,0,0,0
+934,B-0934,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,P-07401,Villarroel,Moisés,15,16',16,0,first half,1,0,0,0
+936,B-0936,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,P-00845,Estay,Fabián,20,47',47,0,second half,1,0,0,0
+937,B-0937,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,P-04737,Salas,Marcelo,11,58',58,0,second half,1,0,0,0
+938,B-0938,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,P-02327,Zamorano,Iván,9,74',74,0,second half,1,0,0,0
+1000,B-1000,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-08943,Parraguez,Nelson,7,50',50,0,second half,1,0,0,0
+1002,B-1002,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-06594,Rojas,Francisco,4,55',55,0,second half,1,0,0,0
+1003,B-1003,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-07401,Villarroel,Moisés,15,66',66,0,second half,1,0,0,0
+1005,B-1005,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-08660,Ramírez,Miguel,14,89',89,0,second half,1,0,0,0
+1070,B-1070,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-13,Chile,CHL,0,1,P-04399,Fuentes,Ronald,3,34',34,0,first half,1,0,0,0
+1072,B-1072,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-13,Chile,CHL,0,1,P-06510,Tapia,Nelson,1,45',45,0,first half,1,0,0,0
+1832,B-1832,WC-2010,2010 FIFA World Cup,M-2010-15,Honduras v Chile,2010-06-16,group stage,Group H,T-13,Chile,CHL,0,1,P-05824,Carmona,Carlos,6,4',4,0,first half,1,0,0,0
+1833,B-1833,WC-2010,2010 FIFA World Cup,M-2010-15,Honduras v Chile,2010-06-16,group stage,Group H,T-13,Chile,CHL,0,1,P-02891,Fernández,Matías,14,19',19,0,first half,1,0,0,0
+1900,B-1900,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-00278,Suazo,Humberto,9,2',2,0,first half,1,0,0,0
+1902,B-1902,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-05824,Carmona,Carlos,6,22',22,0,first half,1,0,0,0
+1903,B-1903,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-08929,Ponce,Waldo,3,25',25,0,first half,1,0,0,0
+1906,B-1906,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-02891,Fernández,Matías,14,60',60,0,second half,1,0,0,0
+1908,B-1908,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-06698,Medel,Gary,17,61',61,0,second half,1,0,0,0
+1909,B-1909,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-07689,Valdivia,Jorge,10,90'+2',90,2,"second half, stoppage time",1,0,0,0
+1968,B-1968,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-06698,Medel,Gary,17,15',15,0,first half,1,0,0,0
+1969,B-1969,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-08929,Ponce,Waldo,3,19',19,0,first half,1,0,0,0
+1970,B-1970,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-08915,Estrada,Marco,13,21',21,0,first half,1,0,0,0
+1971,B-1971,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-08915,Estrada,Marco,13,37',37,0,first half,1,0,1,1
+1994,B-1994,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-05586,Vidal,Arturo,8,47',47,0,second half,1,0,0,0
+1995,B-1995,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-04181,Fuentes,Ismael,2,68',68,0,second half,1,0,0,0
+1997,B-1997,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-03758,Millar,Rodrigo,20,80',80,0,second half,1,0,0,0
+2064,B-2064,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,P-03431,Aránguiz,Charles,20,86',86,0,second half,1,0,0,0
+2105,B-2105,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,P-05586,Vidal,Arturo,8,26',26,0,first half,1,0,0,0
+2107,B-2107,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,P-00338,Mena,Eugenio,2,61',61,0,second half,1,0,0,0
+2142,B-2142,WC-2014,2014 FIFA World Cup,M-2014-34,Netherlands v Chile,2014-06-23,group stage,Group B,T-13,Chile,CHL,0,1,P-08390,Silva,Francisco,5,25',25,0,first half,1,0,0,0
+2185,B-2185,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-00338,Mena,Eugenio,2,17',17,0,first half,1,0,0,0
+2186,B-2186,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-08390,Silva,Francisco,5,40',40,0,first half,1,0,0,0
+2190,B-2190,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-07897,Pinilla,Mauricio,9,102',102,0,"extra time, first half",1,0,0,0

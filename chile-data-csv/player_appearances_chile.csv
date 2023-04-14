@@ -1,0 +1,246 @@
+key_id,tournament_id,tournament_name,match_id,match_name,match_date,stage_name,group_name,team_id,team_name,team_code,home_team,away_team,player_id,family_name,given_name,shirt_number,position_name,position_code,starter,substitute,captain
+843,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-13,Chile,CHL,0,1,P-01974,Vallejos,Leopoldo,1,goal keeper,GK,1,0,0
+844,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-13,Chile,CHL,0,1,P-01623,García,Rolando,2,right back,RB,1,0,0
+845,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-13,Chile,CHL,0,1,P-03988,Quintano,Alberto,3,center back,CB,1,0,0
+846,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-13,Chile,CHL,0,1,P-06201,Arias,Antonio,4,left back,LB,1,0,0
+847,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-13,Chile,CHL,0,1,P-03124,Figueroa,Elías,5,center back,CB,1,0,0
+848,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-13,Chile,CHL,0,1,P-05904,Rodríguez,Juan,6,right midfielder,RM,1,0,0
+849,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-13,Chile,CHL,0,1,P-07348,Caszely,Carlos,7,forward,FW,1,0,0
+850,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-13,Chile,CHL,0,1,P-08732,Valdés,Francisco,8,center midfielder,CM,1,0,1
+851,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-13,Chile,CHL,0,1,P-04762,Ahumada,Sergio,9,forward,FW,1,0,0
+852,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-13,Chile,CHL,0,1,P-05748,Reinoso,Carlos,10,left midfielder,LM,1,0,0
+853,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-13,Chile,CHL,0,1,P-08063,Páez,Guillermo,16,center midfielder,CM,1,0,0
+854,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-13,Chile,CHL,0,1,P-07588,Véliz,Leonardo,11,forward,FW,0,1,0
+855,WC-1974,1974 FIFA World Cup,M-1974-02,West Germany v Chile,1974-06-14,group stage,Group 1,T-13,Chile,CHL,0,1,P-08265,Lara,Alfonso,14,midfielder,MF,0,1,0
+1028,WC-1974,1974 FIFA World Cup,M-1974-10,Chile v East Germany,1974-06-18,group stage,Group 1,T-13,Chile,CHL,1,0,P-01974,Vallejos,Leopoldo,1,goal keeper,GK,1,0,0
+1029,WC-1974,1974 FIFA World Cup,M-1974-10,Chile v East Germany,1974-06-18,group stage,Group 1,T-13,Chile,CHL,1,0,P-01623,García,Rolando,2,right back,RB,1,0,0
+1030,WC-1974,1974 FIFA World Cup,M-1974-10,Chile v East Germany,1974-06-18,group stage,Group 1,T-13,Chile,CHL,1,0,P-03988,Quintano,Alberto,3,center back,CB,1,0,0
+1031,WC-1974,1974 FIFA World Cup,M-1974-10,Chile v East Germany,1974-06-18,group stage,Group 1,T-13,Chile,CHL,1,0,P-06201,Arias,Antonio,4,left back,LB,1,0,0
+1032,WC-1974,1974 FIFA World Cup,M-1974-10,Chile v East Germany,1974-06-18,group stage,Group 1,T-13,Chile,CHL,1,0,P-03124,Figueroa,Elías,5,center back,CB,1,0,0
+1033,WC-1974,1974 FIFA World Cup,M-1974-10,Chile v East Germany,1974-06-18,group stage,Group 1,T-13,Chile,CHL,1,0,P-08732,Valdés,Francisco,8,right midfielder,RM,1,0,1
+1034,WC-1974,1974 FIFA World Cup,M-1974-10,Chile v East Germany,1974-06-18,group stage,Group 1,T-13,Chile,CHL,1,0,P-04762,Ahumada,Sergio,9,center forward,CF,1,0,0
+1035,WC-1974,1974 FIFA World Cup,M-1974-10,Chile v East Germany,1974-06-18,group stage,Group 1,T-13,Chile,CHL,1,0,P-05748,Reinoso,Carlos,10,left midfielder,LM,1,0,0
+1036,WC-1974,1974 FIFA World Cup,M-1974-10,Chile v East Germany,1974-06-18,group stage,Group 1,T-13,Chile,CHL,1,0,P-07588,Véliz,Leonardo,11,left forward,LF,1,0,0
+1037,WC-1974,1974 FIFA World Cup,M-1974-10,Chile v East Germany,1974-06-18,group stage,Group 1,T-13,Chile,CHL,1,0,P-08063,Páez,Guillermo,16,center midfielder,CM,1,0,0
+1038,WC-1974,1974 FIFA World Cup,M-1974-10,Chile v East Germany,1974-06-18,group stage,Group 1,T-13,Chile,CHL,1,0,P-08618,Socías,Jorge,18,right forward,RF,1,0,0
+1039,WC-1974,1974 FIFA World Cup,M-1974-10,Chile v East Germany,1974-06-18,group stage,Group 1,T-13,Chile,CHL,1,0,P-01914,Yávar,Guillermo,17,forward,FW,0,1,0
+1040,WC-1974,1974 FIFA World Cup,M-1974-10,Chile v East Germany,1974-06-18,group stage,Group 1,T-13,Chile,CHL,1,0,P-05366,Farías,Rogelio,19,midfielder,MF,0,1,0
+1215,WC-1974,1974 FIFA World Cup,M-1974-17,Australia v Chile,1974-06-22,group stage,Group 1,T-13,Chile,CHL,0,1,P-01974,Vallejos,Leopoldo,1,goal keeper,GK,1,0,0
+1216,WC-1974,1974 FIFA World Cup,M-1974-17,Australia v Chile,1974-06-22,group stage,Group 1,T-13,Chile,CHL,0,1,P-01623,García,Rolando,2,right back,RB,1,0,0
+1217,WC-1974,1974 FIFA World Cup,M-1974-17,Australia v Chile,1974-06-22,group stage,Group 1,T-13,Chile,CHL,0,1,P-03988,Quintano,Alberto,3,center back,CB,1,0,0
+1218,WC-1974,1974 FIFA World Cup,M-1974-17,Australia v Chile,1974-06-22,group stage,Group 1,T-13,Chile,CHL,0,1,P-06201,Arias,Antonio,4,left back,LB,1,0,0
+1219,WC-1974,1974 FIFA World Cup,M-1974-17,Australia v Chile,1974-06-22,group stage,Group 1,T-13,Chile,CHL,0,1,P-03124,Figueroa,Elías,5,center back,CB,1,0,0
+1220,WC-1974,1974 FIFA World Cup,M-1974-17,Australia v Chile,1974-06-22,group stage,Group 1,T-13,Chile,CHL,0,1,P-07348,Caszely,Carlos,7,right forward,RF,1,0,0
+1221,WC-1974,1974 FIFA World Cup,M-1974-17,Australia v Chile,1974-06-22,group stage,Group 1,T-13,Chile,CHL,0,1,P-08732,Valdés,Francisco,8,right midfielder,RM,1,0,1
+1222,WC-1974,1974 FIFA World Cup,M-1974-17,Australia v Chile,1974-06-22,group stage,Group 1,T-13,Chile,CHL,0,1,P-04762,Ahumada,Sergio,9,center forward,CF,1,0,0
+1223,WC-1974,1974 FIFA World Cup,M-1974-17,Australia v Chile,1974-06-22,group stage,Group 1,T-13,Chile,CHL,0,1,P-05748,Reinoso,Carlos,10,left midfielder,LM,1,0,0
+1224,WC-1974,1974 FIFA World Cup,M-1974-17,Australia v Chile,1974-06-22,group stage,Group 1,T-13,Chile,CHL,0,1,P-07588,Véliz,Leonardo,11,left forward,LF,1,0,0
+1225,WC-1974,1974 FIFA World Cup,M-1974-17,Australia v Chile,1974-06-22,group stage,Group 1,T-13,Chile,CHL,0,1,P-08063,Páez,Guillermo,16,center midfielder,CM,1,0,0
+1226,WC-1974,1974 FIFA World Cup,M-1974-17,Australia v Chile,1974-06-22,group stage,Group 1,T-13,Chile,CHL,0,1,P-01914,Yávar,Guillermo,17,forward,FW,0,1,0
+1227,WC-1974,1974 FIFA World Cup,M-1974-17,Australia v Chile,1974-06-22,group stage,Group 1,T-13,Chile,CHL,0,1,P-05366,Farías,Rogelio,19,midfielder,MF,0,1,0
+2921,WC-1982,1982 FIFA World Cup,M-1982-10,Chile v Austria,1982-06-17,group stage,Group 2,T-13,Chile,CHL,1,0,P-06291,Garrido,Lizardo,2,defender,DF,1,0,0
+2922,WC-1982,1982 FIFA World Cup,M-1982-10,Chile v Austria,1982-06-17,group stage,Group 2,T-13,Chile,CHL,1,0,P-00561,Valenzuela,René,3,defender,DF,1,0,0
+2923,WC-1982,1982 FIFA World Cup,M-1982-10,Chile v Austria,1982-06-17,group stage,Group 2,T-13,Chile,CHL,1,0,P-02408,Bigorra,Vladimir,4,defender,DF,1,0,0
+2924,WC-1982,1982 FIFA World Cup,M-1982-10,Chile v Austria,1982-06-17,group stage,Group 2,T-13,Chile,CHL,1,0,P-03124,Figueroa,Elías,5,sweeper,SW,1,0,1
+2925,WC-1982,1982 FIFA World Cup,M-1982-10,Chile v Austria,1982-06-17,group stage,Group 2,T-13,Chile,CHL,1,0,P-02377,Dubó,Rodolfo,6,midfielder,MF,1,0,0
+2926,WC-1982,1982 FIFA World Cup,M-1982-10,Chile v Austria,1982-06-17,group stage,Group 2,T-13,Chile,CHL,1,0,P-05377,Bonvallet,Eduardo,7,midfielder,MF,1,0,0
+2927,WC-1982,1982 FIFA World Cup,M-1982-10,Chile v Austria,1982-06-17,group stage,Group 2,T-13,Chile,CHL,1,0,P-05871,Moscoso,Gustavo,11,midfielder,MF,1,0,0
+2928,WC-1982,1982 FIFA World Cup,M-1982-10,Chile v Austria,1982-06-17,group stage,Group 2,T-13,Chile,CHL,1,0,P-07348,Caszely,Carlos,13,forward,FW,1,0,0
+2929,WC-1982,1982 FIFA World Cup,M-1982-10,Chile v Austria,1982-06-17,group stage,Group 2,T-13,Chile,CHL,1,0,P-09361,Yáñez,Patricio,15,forward,FW,1,0,0
+2930,WC-1982,1982 FIFA World Cup,M-1982-10,Chile v Austria,1982-06-17,group stage,Group 2,T-13,Chile,CHL,1,0,P-05796,Neira,Miguel Ángel,20,midfielder,MF,1,0,0
+2931,WC-1982,1982 FIFA World Cup,M-1982-10,Chile v Austria,1982-06-17,group stage,Group 2,T-13,Chile,CHL,1,0,P-05798,Osbén,Mario,22,goal keeper,GK,1,0,0
+2932,WC-1982,1982 FIFA World Cup,M-1982-10,Chile v Austria,1982-06-17,group stage,Group 2,T-13,Chile,CHL,1,0,P-01649,Rojas,Manuel,16,midfielder,MF,0,1,0
+2933,WC-1982,1982 FIFA World Cup,M-1982-10,Chile v Austria,1982-06-17,group stage,Group 2,T-13,Chile,CHL,1,0,P-09048,Gamboa,Miguel Ángel,21,forward,FW,0,1,0
+3155,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-13,Chile,CHL,0,1,P-06291,Garrido,Lizardo,2,defender,DF,1,0,0
+3156,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-13,Chile,CHL,0,1,P-00561,Valenzuela,René,3,defender,DF,1,0,0
+3157,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-13,Chile,CHL,0,1,P-02408,Bigorra,Vladimir,4,defender,DF,1,0,0
+3158,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-13,Chile,CHL,0,1,P-03124,Figueroa,Elías,5,sweeper,SW,1,0,1
+3159,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-13,Chile,CHL,0,1,P-02377,Dubó,Rodolfo,6,midfielder,MF,1,0,0
+3160,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-13,Chile,CHL,0,1,P-05377,Bonvallet,Eduardo,7,midfielder,MF,1,0,0
+3161,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-13,Chile,CHL,0,1,P-02677,Soto,Mario,10,midfielder,MF,1,0,0
+3162,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-13,Chile,CHL,0,1,P-05871,Moscoso,Gustavo,11,forward,FW,1,0,0
+3163,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-13,Chile,CHL,0,1,P-09361,Yáñez,Patricio,15,midfielder,MF,1,0,0
+3164,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-13,Chile,CHL,0,1,P-09048,Gamboa,Miguel Ángel,21,forward,FW,1,0,0
+3165,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-13,Chile,CHL,0,1,P-05798,Osbén,Mario,22,goal keeper,GK,1,0,0
+3166,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-13,Chile,CHL,0,1,P-01788,Letelier,Juan Carlos,9,forward,FW,0,1,0
+3167,WC-1982,1982 FIFA World Cup,M-1982-19,West Germany v Chile,1982-06-20,group stage,Group 2,T-13,Chile,CHL,0,1,P-05796,Neira,Miguel Ángel,20,midfielder,MF,0,1,0
+3460,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-13,Chile,CHL,0,1,P-00561,Valenzuela,René,3,defender,DF,1,0,0
+3461,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-13,Chile,CHL,0,1,P-02408,Bigorra,Vladimir,4,defender,DF,1,0,0
+3462,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-13,Chile,CHL,0,1,P-03124,Figueroa,Elías,5,defender,DF,1,0,1
+3463,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-13,Chile,CHL,0,1,P-02377,Dubó,Rodolfo,6,midfielder,MF,1,0,0
+3464,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-13,Chile,CHL,0,1,P-05377,Bonvallet,Eduardo,7,midfielder,MF,1,0,0
+3465,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-13,Chile,CHL,0,1,P-05871,Moscoso,Gustavo,11,forward,FW,1,0,0
+3466,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-13,Chile,CHL,0,1,P-07348,Caszely,Carlos,13,forward,FW,1,0,0
+3467,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-13,Chile,CHL,0,1,P-09361,Yáñez,Patricio,15,forward,FW,1,0,0
+3468,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-13,Chile,CHL,0,1,P-01618,Galindo,Mario,18,defender,DF,1,0,0
+3469,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-13,Chile,CHL,0,1,P-05796,Neira,Miguel Ángel,20,midfielder,MF,1,0,0
+3470,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-13,Chile,CHL,0,1,P-05798,Osbén,Mario,22,goal keeper,GK,1,0,0
+3471,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-13,Chile,CHL,0,1,P-01788,Letelier,Juan Carlos,9,forward,FW,0,1,0
+3472,WC-1982,1982 FIFA World Cup,M-1982-31,Algeria v Chile,1982-06-24,group stage,Group 2,T-13,Chile,CHL,0,1,P-02677,Soto,Mario,10,midfielder,MF,0,1,0
+8082,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-06510,Tapia,Nelson,1,goal keeper,GK,1,0,0
+8083,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-04399,Fuentes,Ronald,3,defender,DF,1,0,0
+8084,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-06594,Rojas,Francisco,4,defender,DF,1,0,0
+8085,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-01942,Margas,Javier,5,defender,DF,1,0,0
+8086,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-02146,Reyes,Pedro,6,defender,DF,1,0,0
+8087,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-08943,Parraguez,Nelson,7,midfielder,MF,1,0,0
+8088,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-01161,Acuña,Clarence,8,midfielder,MF,1,0,0
+8089,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-02327,Zamorano,Iván,9,forward,FW,1,0,1
+8090,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-04737,Salas,Marcelo,11,forward,FW,1,0,0
+8091,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-07401,Villarroel,Moisés,15,defender,DF,1,0,0
+8092,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-00845,Estay,Fabián,20,midfielder,MF,1,0,0
+8093,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-09013,Sierra,José Luis,10,midfielder,MF,0,1,0
+8094,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-08660,Ramírez,Miguel,14,defender,DF,0,1,0
+8095,WC-1998,1998 FIFA World Cup,M-1998-03,Italy v Chile,1998-06-11,group stage,Group B,T-13,Chile,CHL,0,1,P-05025,Cornejo,Fernando,19,midfielder,MF,0,1,0
+8503,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,P-06510,Tapia,Nelson,1,goal keeper,GK,1,0,0
+8504,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,P-04399,Fuentes,Ronald,3,defender,DF,1,0,0
+8505,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,P-06594,Rojas,Francisco,4,defender,DF,1,0,0
+8506,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,P-01942,Margas,Javier,5,defender,DF,1,0,0
+8507,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,P-02146,Reyes,Pedro,6,defender,DF,1,0,0
+8508,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,P-08943,Parraguez,Nelson,7,midfielder,MF,1,0,0
+8509,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,P-01161,Acuña,Clarence,8,midfielder,MF,1,0,0
+8510,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,P-02327,Zamorano,Iván,9,forward,FW,1,0,1
+8511,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,P-04737,Salas,Marcelo,11,forward,FW,1,0,0
+8512,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,P-07401,Villarroel,Moisés,15,defender,DF,1,0,0
+8513,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,P-00845,Estay,Fabián,20,midfielder,MF,1,0,0
+8514,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,P-00531,Castañeda,Cristián,2,defender,DF,0,1,0
+8515,WC-1998,1998 FIFA World Cup,M-1998-19,Chile v Austria,1998-06-17,group stage,Group B,T-13,Chile,CHL,1,0,P-09013,Sierra,José Luis,10,midfielder,MF,0,1,0
+8893,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-06510,Tapia,Nelson,1,goal keeper,GK,1,0,0
+8894,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-04399,Fuentes,Ronald,3,defender,DF,1,0,0
+8895,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-06594,Rojas,Francisco,4,defender,DF,1,0,0
+8896,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-01942,Margas,Javier,5,defender,DF,1,0,0
+8897,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-02146,Reyes,Pedro,6,defender,DF,1,0,0
+8898,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-08943,Parraguez,Nelson,7,midfielder,MF,1,0,0
+8899,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-01161,Acuña,Clarence,8,midfielder,MF,1,0,0
+8900,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-02327,Zamorano,Iván,9,forward,FW,1,0,1
+8901,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-09013,Sierra,José Luis,10,midfielder,MF,1,0,0
+8902,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-04737,Salas,Marcelo,11,forward,FW,1,0,0
+8903,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-07401,Villarroel,Moisés,15,defender,DF,1,0,0
+8904,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-08660,Ramírez,Miguel,14,defender,DF,0,1,0
+8905,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-05025,Cornejo,Fernando,19,midfielder,MF,0,1,0
+8906,WC-1998,1998 FIFA World Cup,M-1998-33,Chile v Cameroon,1998-06-23,group stage,Group B,T-13,Chile,CHL,1,0,P-00845,Estay,Fabián,20,midfielder,MF,0,1,0
+9372,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-13,Chile,CHL,0,1,P-06510,Tapia,Nelson,1,goal keeper,GK,1,0,0
+9373,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-13,Chile,CHL,0,1,P-04399,Fuentes,Ronald,3,center back,CB,1,0,0
+9374,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-13,Chile,CHL,0,1,P-01942,Margas,Javier,5,center back,CB,1,0,0
+9375,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-13,Chile,CHL,0,1,P-02146,Reyes,Pedro,6,center back,CB,1,0,0
+9376,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-13,Chile,CHL,0,1,P-01161,Acuña,Clarence,8,center midfielder,CM,1,0,0
+9377,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-13,Chile,CHL,0,1,P-02327,Zamorano,Iván,9,center forward,CF,1,0,1
+9378,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-13,Chile,CHL,0,1,P-09013,Sierra,José Luis,10,attacking midfielder,AM,1,0,0
+9379,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-13,Chile,CHL,0,1,P-04737,Salas,Marcelo,11,center forward,CF,1,0,0
+9380,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-13,Chile,CHL,0,1,P-08660,Ramírez,Miguel,14,center midfielder,CM,1,0,0
+9381,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-13,Chile,CHL,0,1,P-06292,Aros,Mauricio,16,left wing back,LWB,1,0,0
+9382,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-13,Chile,CHL,0,1,P-05025,Cornejo,Fernando,19,right wing back,RWB,1,0,0
+9383,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-13,Chile,CHL,0,1,P-06910,Vega,Marcelo,17,midfielder,MF,0,1,0
+9384,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-13,Chile,CHL,0,1,P-09042,Musrri,Luis,18,midfielder,MF,0,1,0
+9385,WC-1998,1998 FIFA World Cup,M-1998-50,Brazil v Chile,1998-06-27,round of 16,not applicable,T-13,Chile,CHL,0,1,P-00845,Estay,Fabián,20,midfielder,MF,0,1,0
+13691,WC-2010,2010 FIFA World Cup,M-2010-15,Honduras v Chile,2010-06-16,group stage,Group H,T-13,Chile,CHL,0,1,P-04782,Bravo,Claudio,1,goal keeper,GK,1,0,1
+13692,WC-2010,2010 FIFA World Cup,M-2010-15,Honduras v Chile,2010-06-16,group stage,Group H,T-13,Chile,CHL,0,1,P-08929,Ponce,Waldo,3,center back,CB,1,0,0
+13693,WC-2010,2010 FIFA World Cup,M-2010-15,Honduras v Chile,2010-06-16,group stage,Group H,T-13,Chile,CHL,0,1,P-05507,Isla,Mauricio,4,right back,RB,1,0,0
+13694,WC-2010,2010 FIFA World Cup,M-2010-15,Honduras v Chile,2010-06-16,group stage,Group H,T-13,Chile,CHL,0,1,P-05824,Carmona,Carlos,6,center midfielder,CM,1,0,0
+13695,WC-2010,2010 FIFA World Cup,M-2010-15,Honduras v Chile,2010-06-16,group stage,Group H,T-13,Chile,CHL,0,1,P-08837,Sánchez,Alexis,7,center forward,CF,1,0,0
+13696,WC-2010,2010 FIFA World Cup,M-2010-15,Honduras v Chile,2010-06-16,group stage,Group H,T-13,Chile,CHL,0,1,P-05586,Vidal,Arturo,8,left back,LB,1,0,0
+13697,WC-2010,2010 FIFA World Cup,M-2010-15,Honduras v Chile,2010-06-16,group stage,Group H,T-13,Chile,CHL,0,1,P-07689,Valdivia,Jorge,10,attacking midfielder,AM,1,0,0
+13698,WC-2010,2010 FIFA World Cup,M-2010-15,Honduras v Chile,2010-06-16,group stage,Group H,T-13,Chile,CHL,0,1,P-02891,Fernández,Matías,14,left midfielder,LM,1,0,0
+13699,WC-2010,2010 FIFA World Cup,M-2010-15,Honduras v Chile,2010-06-16,group stage,Group H,T-13,Chile,CHL,0,1,P-06181,Beausejour,Jean,15,center forward,CF,1,0,0
+13700,WC-2010,2010 FIFA World Cup,M-2010-15,Honduras v Chile,2010-06-16,group stage,Group H,T-13,Chile,CHL,0,1,P-06698,Medel,Gary,17,center back,CB,1,0,0
+13701,WC-2010,2010 FIFA World Cup,M-2010-15,Honduras v Chile,2010-06-16,group stage,Group H,T-13,Chile,CHL,0,1,P-03758,Millar,Rodrigo,20,right midfielder,RM,1,0,0
+13702,WC-2010,2010 FIFA World Cup,M-2010-15,Honduras v Chile,2010-06-16,group stage,Group H,T-13,Chile,CHL,0,1,P-01869,Contreras,Pablo,5,defender,DF,0,1,0
+13703,WC-2010,2010 FIFA World Cup,M-2010-15,Honduras v Chile,2010-06-16,group stage,Group H,T-13,Chile,CHL,0,1,P-05628,González,Mark,11,forward,FW,0,1,0
+13704,WC-2010,2010 FIFA World Cup,M-2010-15,Honduras v Chile,2010-06-16,group stage,Group H,T-13,Chile,CHL,0,1,P-08448,Jara,Gonzalo,18,defender,DF,0,1,0
+14119,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-04782,Bravo,Claudio,1,goal keeper,GK,1,0,1
+14120,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-08929,Ponce,Waldo,3,center back,CB,1,0,0
+14121,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-05507,Isla,Mauricio,4,right back,RB,1,0,0
+14122,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-05824,Carmona,Carlos,6,center midfielder,CM,1,0,0
+14123,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-08837,Sánchez,Alexis,7,right forward,RF,1,0,0
+14124,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-05586,Vidal,Arturo,8,right midfielder,RM,1,0,0
+14125,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-00278,Suazo,Humberto,9,center forward,CF,1,0,0
+14126,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-02891,Fernández,Matías,14,left midfielder,LM,1,0,0
+14127,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-06181,Beausejour,Jean,15,left forward,LF,1,0,0
+14128,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-06698,Medel,Gary,17,center back,CB,1,0,0
+14129,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-08448,Jara,Gonzalo,18,left back,LB,1,0,0
+14130,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-07689,Valdivia,Jorge,10,forward,FW,0,1,0
+14131,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-05628,González,Mark,11,midfielder,MF,0,1,0
+14132,WC-2010,2010 FIFA World Cup,M-2010-31,Chile v Switzerland,2010-06-21,group stage,Group H,T-13,Chile,CHL,1,0,P-08470,Paredes,Esteban,22,forward,FW,0,1,0
+14560,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-04782,Bravo,Claudio,1,goal keeper,GK,1,0,1
+14561,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-08929,Ponce,Waldo,3,center back,CB,1,0,0
+14562,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-05507,Isla,Mauricio,4,right back,RB,1,0,0
+14563,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-08837,Sánchez,Alexis,7,center forward,CF,1,0,0
+14564,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-05586,Vidal,Arturo,8,right midfielder,RM,1,0,0
+14565,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-07689,Valdivia,Jorge,10,attacking midfielder,AM,1,0,0
+14566,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-05628,González,Mark,11,left midfielder,LM,1,0,0
+14567,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-08915,Estrada,Marco,13,center midfielder,CM,1,0,0
+14568,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-06181,Beausejour,Jean,15,center forward,CF,1,0,0
+14569,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-06698,Medel,Gary,17,center back,CB,1,0,0
+14570,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-08448,Jara,Gonzalo,18,left back,LB,1,0,0
+14571,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-03263,Orellana,Fabián,16,forward,FW,0,1,0
+14572,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-03758,Millar,Rodrigo,20,midfielder,MF,0,1,0
+14573,WC-2010,2010 FIFA World Cup,M-2010-47,Chile v Spain,2010-06-25,group stage,Group H,T-13,Chile,CHL,1,0,P-08470,Paredes,Esteban,22,forward,FW,0,1,0
+14767,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-04782,Bravo,Claudio,1,goal keeper,GK,1,0,1
+14768,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-04181,Fuentes,Ismael,2,left back,LB,1,0,0
+14769,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-05507,Isla,Mauricio,4,right back,RB,1,0,0
+14770,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-01869,Contreras,Pablo,5,center back,CB,1,0,0
+14771,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-05824,Carmona,Carlos,6,center midfielder,CM,1,0,0
+14772,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-08837,Sánchez,Alexis,7,right winger,RW,1,0,0
+14773,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-05586,Vidal,Arturo,8,right midfielder,RM,1,0,0
+14774,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-00278,Suazo,Humberto,9,center forward,CF,1,0,0
+14775,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-05628,González,Mark,11,left winger,LW,1,0,0
+14776,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-06181,Beausejour,Jean,15,left midfielder,LM,1,0,0
+14777,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-08448,Jara,Gonzalo,18,center back,CB,1,0,0
+14778,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-07689,Valdivia,Jorge,10,midfielder,MF,0,1,0
+14779,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-03758,Millar,Rodrigo,20,midfielder,MF,0,1,0
+14780,WC-2010,2010 FIFA World Cup,M-2010-54,Brazil v Chile,2010-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-07967,Tello,Rodrigo,21,midfielder,MF,0,1,0
+15135,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,P-04782,Bravo,Claudio,1,goal keeper,GK,1,0,1
+15136,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,P-00338,Mena,Eugenio,2,left back,LB,1,0,0
+15137,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,P-05507,Isla,Mauricio,4,right back,RB,1,0,0
+15138,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,P-08837,Sánchez,Alexis,7,right forward,RF,1,0,0
+15139,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,P-05586,Vidal,Arturo,8,left midfielder,LM,1,0,0
+15140,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,P-07689,Valdivia,Jorge,10,center forward,CF,1,0,0
+15141,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,P-09883,Vargas,Eduardo,11,left forward,LF,1,0,0
+15142,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,P-06698,Medel,Gary,17,center back,CB,1,0,0
+15143,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,P-08448,Jara,Gonzalo,18,center back,CB,1,0,0
+15144,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,P-03431,Aránguiz,Charles,20,right midfielder,RM,1,0,0
+15145,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,P-01478,Díaz,Marcelo,21,center midfielder,CM,1,0,0
+15146,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,P-07897,Pinilla,Mauricio,9,forward,FW,0,1,0
+15147,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,P-06181,Beausejour,Jean,15,midfielder,MF,0,1,0
+15148,WC-2014,2014 FIFA World Cup,M-2014-04,Chile v Australia,2014-06-13,group stage,Group B,T-13,Chile,CHL,1,0,P-04799,Gutiérrez,Felipe,16,midfielder,MF,0,1,0
+15566,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,P-04782,Bravo,Claudio,1,goal keeper,GK,1,0,1
+15567,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,P-00338,Mena,Eugenio,2,left midfielder,LM,1,0,0
+15568,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,P-05507,Isla,Mauricio,4,right midfielder,RM,1,0,0
+15569,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,P-08390,Silva,Francisco,5,center back,CB,1,0,0
+15570,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,P-08837,Sánchez,Alexis,7,center forward,CF,1,0,0
+15571,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,P-05586,Vidal,Arturo,8,attacking midfielder,AM,1,0,0
+15572,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,P-09883,Vargas,Eduardo,11,center forward,CF,1,0,0
+15573,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,P-06698,Medel,Gary,17,center back,CB,1,0,0
+15574,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,P-08448,Jara,Gonzalo,18,center back,CB,1,0,0
+15575,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,P-03431,Aránguiz,Charles,20,center midfielder,CM,1,0,0
+15576,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,P-01478,Díaz,Marcelo,21,center midfielder,CM,1,0,0
+15577,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,P-05824,Carmona,Carlos,6,midfielder,MF,0,1,0
+15578,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,P-07689,Valdivia,Jorge,10,midfielder,MF,0,1,0
+15579,WC-2014,2014 FIFA World Cup,M-2014-19,Spain v Chile,2014-06-18,group stage,Group B,T-13,Chile,CHL,0,1,P-04799,Gutiérrez,Felipe,16,midfielder,MF,0,1,0
+15984,WC-2014,2014 FIFA World Cup,M-2014-34,Netherlands v Chile,2014-06-23,group stage,Group B,T-13,Chile,CHL,0,1,P-04782,Bravo,Claudio,1,goal keeper,GK,1,0,1
+15985,WC-2014,2014 FIFA World Cup,M-2014-34,Netherlands v Chile,2014-06-23,group stage,Group B,T-13,Chile,CHL,0,1,P-00338,Mena,Eugenio,2,left wing back,LWB,1,0,0
+15986,WC-2014,2014 FIFA World Cup,M-2014-34,Netherlands v Chile,2014-06-23,group stage,Group B,T-13,Chile,CHL,0,1,P-05507,Isla,Mauricio,4,right wing back,RWB,1,0,0
+15987,WC-2014,2014 FIFA World Cup,M-2014-34,Netherlands v Chile,2014-06-23,group stage,Group B,T-13,Chile,CHL,0,1,P-08390,Silva,Francisco,5,center back,CB,1,0,0
+15988,WC-2014,2014 FIFA World Cup,M-2014-34,Netherlands v Chile,2014-06-23,group stage,Group B,T-13,Chile,CHL,0,1,P-08837,Sánchez,Alexis,7,center forward,CF,1,0,0
+15989,WC-2014,2014 FIFA World Cup,M-2014-34,Netherlands v Chile,2014-06-23,group stage,Group B,T-13,Chile,CHL,0,1,P-09883,Vargas,Eduardo,11,center forward,CF,1,0,0
+15990,WC-2014,2014 FIFA World Cup,M-2014-34,Netherlands v Chile,2014-06-23,group stage,Group B,T-13,Chile,CHL,0,1,P-04799,Gutiérrez,Felipe,16,attacking midfielder,AM,1,0,0
+15991,WC-2014,2014 FIFA World Cup,M-2014-34,Netherlands v Chile,2014-06-23,group stage,Group B,T-13,Chile,CHL,0,1,P-06698,Medel,Gary,17,center back,CB,1,0,0
+15992,WC-2014,2014 FIFA World Cup,M-2014-34,Netherlands v Chile,2014-06-23,group stage,Group B,T-13,Chile,CHL,0,1,P-08448,Jara,Gonzalo,18,center back,CB,1,0,0
+15993,WC-2014,2014 FIFA World Cup,M-2014-34,Netherlands v Chile,2014-06-23,group stage,Group B,T-13,Chile,CHL,0,1,P-03431,Aránguiz,Charles,20,center midfielder,CM,1,0,0
+15994,WC-2014,2014 FIFA World Cup,M-2014-34,Netherlands v Chile,2014-06-23,group stage,Group B,T-13,Chile,CHL,0,1,P-01478,Díaz,Marcelo,21,center midfielder,CM,1,0,0
+15995,WC-2014,2014 FIFA World Cup,M-2014-34,Netherlands v Chile,2014-06-23,group stage,Group B,T-13,Chile,CHL,0,1,P-07897,Pinilla,Mauricio,9,forward,FW,0,1,0
+15996,WC-2014,2014 FIFA World Cup,M-2014-34,Netherlands v Chile,2014-06-23,group stage,Group B,T-13,Chile,CHL,0,1,P-07689,Valdivia,Jorge,10,midfielder,MF,0,1,0
+15997,WC-2014,2014 FIFA World Cup,M-2014-34,Netherlands v Chile,2014-06-23,group stage,Group B,T-13,Chile,CHL,0,1,P-06181,Beausejour,Jean,15,midfielder,MF,0,1,0
+16402,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-04782,Bravo,Claudio,1,goal keeper,GK,1,0,1
+16403,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-00338,Mena,Eugenio,2,left wing back,LWB,1,0,0
+16404,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-05507,Isla,Mauricio,4,right wing back,RWB,1,0,0
+16405,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-08390,Silva,Francisco,5,center back,CB,1,0,0
+16406,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-08837,Sánchez,Alexis,7,center forward,CF,1,0,0
+16407,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-05586,Vidal,Arturo,8,attacking midfielder,AM,1,0,0
+16408,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-09883,Vargas,Eduardo,11,center forward,CF,1,0,0
+16409,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-06698,Medel,Gary,17,center back,CB,1,0,0
+16410,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-08448,Jara,Gonzalo,18,center back,CB,1,0,0
+16411,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-03431,Aránguiz,Charles,20,center midfielder,CM,1,0,0
+16412,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-01478,Díaz,Marcelo,21,center midfielder,CM,1,0,0
+16413,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-07897,Pinilla,Mauricio,9,forward,FW,0,1,0
+16414,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-00831,Rojas,José Manuel,13,defender,DF,0,1,0
+16415,WC-2014,2014 FIFA World Cup,M-2014-49,Brazil v Chile,2014-06-28,round of 16,not applicable,T-13,Chile,CHL,0,1,P-04799,Gutiérrez,Felipe,16,midfielder,MF,0,1,0
