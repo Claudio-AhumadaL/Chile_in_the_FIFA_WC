@@ -1,4 +1,5 @@
-# Chile_in_the_FIFA_WC
+# Unveiling Chile's FIFA World Cup Legacy: A Visual Journey Through Performance and Achievements
+
  Analysis for Chile's national team participations in FIFA's World Cups.
  Claudio-AhumadaL 2023
 
