@@ -1,5 +1,5 @@
 # Chile_in_the_FIFA_WC
- Analysis in Chile's national team participations in FIFA's World Cups.
+ Analysis for Chile's national team participations in FIFA's World Cups.
  Claudio-AhumadaL 2023
 
 
